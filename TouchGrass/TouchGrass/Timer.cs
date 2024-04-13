@@ -1,7 +1,7 @@
 // Timer.cs
 namespace TouchGrass;
 
-namespace TouchGrass;
+using System.Diagnostics;
 
 public class Timer
 {
@@ -15,7 +15,22 @@ public class Timer
 
     public TimeSpan GetTime()
     {
-        return countUpTimer.Elapsed;
+        return countUpTimer.Elapsed.Minutes > 1 ? new TimeSpan(0, 99, 99) : countUpTimer.Elapsed;
+    }
+
+    public void RestartTime()
+    {
+        countUpTimer.Restart();
+    }
+
+    public void ResetTime()
+    {
+        countUpTimer.Reset();
+    }
+
+    public void StartTime()
+    {
+        countUpTimer.Start();
     }
     
     
