@@ -1,10 +1,22 @@
-﻿namespace TouchGrass;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
-public class Program
+namespace TouchGrass
 {
-    static void Main(string[] args)
+    internal static class Program
     {
-        Console.WriteLine("Hello, World!");
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
     }
 }
-

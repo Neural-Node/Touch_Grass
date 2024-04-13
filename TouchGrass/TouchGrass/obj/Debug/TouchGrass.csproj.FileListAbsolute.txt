@@ -1,0 +1,5 @@
+C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.AssemblyReference.cache
+C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.Form1.resources
+C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.Properties.Resources.resources
+C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.GenerateResource.cache
+C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.CoreCompileInputs.cache
