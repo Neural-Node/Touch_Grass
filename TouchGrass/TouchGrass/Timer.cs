@@ -5,32 +5,32 @@ using System.Diagnostics;
 
 public class Timer
 {
-    private readonly Stopwatch countUpTimer;
+    private readonly Stopwatch _countUpTimer;
 
     public Timer()
     {
-        countUpTimer = new Stopwatch();
-        countUpTimer.Start();
+        _countUpTimer = new Stopwatch();
+        _countUpTimer.Start();
     }
 
     public TimeSpan GetTime()
     {
-        return countUpTimer.Elapsed.Minutes > 1 ? new TimeSpan(0, 99, 99) : countUpTimer.Elapsed;
+        return _countUpTimer.Elapsed.Minutes > 1 ? new TimeSpan(0, 99, 99) : _countUpTimer.Elapsed;
     }
 
     public void RestartTime()
     {
-        countUpTimer.Restart();
+        _countUpTimer.Restart();
     }
 
     public void ResetTime()
     {
-        countUpTimer.Reset();
+        _countUpTimer.Reset();
     }
 
     public void StartTime()
     {
-        countUpTimer.Start();
+        _countUpTimer.Start();
     }
     
     
