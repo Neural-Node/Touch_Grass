@@ -15,6 +15,7 @@ public class Goat
     public void Moved()
     {
         //Implement movement logic here
+        //test
     }
 
     // Method for goat to eat grass
