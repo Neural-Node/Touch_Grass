@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tgfel\\Desktop\\New folder\\TouchGrass\\",
+  "WorkspaceRootPath": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\new folder\\touchgrass\\touchgrass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\touchgrass\\touch_grass\\touchgrass\\touchgrass\\count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\new folder\\touchgrass\\touchgrass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\touchgrass\\touch_grass\\touchgrass\\touchgrass\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\touchgrass\\touch_grass\\touchgrass\\touchgrass\\goat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\goat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|c:\\users\\tgfel\\desktop\\touchgrass\\touch_grass\\touchgrass\\touchgrass\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE499EC-0912-49B4-8B8C-762AA29089A9}|TouchGrass\\TouchGrass.csproj|solutionrelative:touchgrass\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\New folder\\TouchGrass\\TouchGrass\\Program.cs",
-              "RelativeDocumentMoniker": "TouchGrass\\Program.cs",
-              "ToolTip": "C:\\Users\\tgfel\\Desktop\\New folder\\TouchGrass\\TouchGrass\\Program.cs",
-              "RelativeToolTip": "TouchGrass\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Title": "Count.cs",
+              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Count.cs",
+              "RelativeDocumentMoniker": "TouchGrass\\Count.cs",
+              "ToolTip": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Count.cs",
+              "RelativeToolTip": "TouchGrass\\Count.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:25:57.477Z",
+              "WhenOpened": "2024-04-13T19:32:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Timer.cs",
+              "RelativeDocumentMoniker": "TouchGrass\\Timer.cs",
+              "ToolTip": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Timer.cs",
+              "RelativeToolTip": "TouchGrass\\Timer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:32:02.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\New folder\\TouchGrass\\TouchGrass\\Form1.cs",
-              "RelativeDocumentMoniker": "TouchGrass\\Form1.cs",
-              "ToolTip": "C:\\Users\\tgfel\\Desktop\\New folder\\TouchGrass\\TouchGrass\\Form1.cs [Design]",
-              "RelativeToolTip": "TouchGrass\\Form1.cs [Design]",
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Grass.cs",
+              "RelativeDocumentMoniker": "TouchGrass\\Grass.cs",
+              "ToolTip": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Grass.cs",
+              "RelativeToolTip": "TouchGrass\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:14:25.477Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-13T19:31:06.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goat.cs",
+              "DocumentMoniker": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Goat.cs",
+              "RelativeDocumentMoniker": "TouchGrass\\Goat.cs",
+              "ToolTip": "C:\\Users\\tgfel\\Desktop\\TouchGrass\\Touch_Grass\\TouchGrass\\TouchGrass\\Goat.cs",
+              "RelativeToolTip": "TouchGrass\\Goat.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:30:09.973Z",
+              "EditorCaption": ""
             }
           ]
         }
