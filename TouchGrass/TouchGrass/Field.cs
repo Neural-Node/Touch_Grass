@@ -1,7 +1,8 @@
 // Field.cs
-namespace TouchGrass;
-
-public class Field
+namespace TouchGrass
 {
-    // Add properties and methods as needed
+    public class Field
+    {
+        // Add properties and methods as needed
+    }
 }

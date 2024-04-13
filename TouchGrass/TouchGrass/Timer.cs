@@ -1,38 +1,42 @@
 // Timer.cs
-namespace TouchGrass;
 
-using System.Diagnostics;
+using System;
 
-public class Timer
+namespace TouchGrass
 {
-    private readonly Stopwatch _countUpTimer;
+    using System.Diagnostics;
 
-    public Timer()
+    public class Timer
     {
-        _countUpTimer = new Stopwatch();
-        _countUpTimer.Start();
-    }
+        private readonly Stopwatch _countUpTimer;
 
-    public TimeSpan GetTime()
-    {
-        return _countUpTimer.Elapsed.Minutes > 1 ? new TimeSpan(0, 99, 99) : _countUpTimer.Elapsed;
-    }
+        public Timer()
+        {
+            _countUpTimer = new Stopwatch();
+            _countUpTimer.Start();
+        }
 
-    public void RestartTime()
-    {
-        _countUpTimer.Restart();
-    }
+        public TimeSpan GetTime()
+        {
+            return _countUpTimer.Elapsed.Minutes > 1 ? new TimeSpan(0, 99, 99) : _countUpTimer.Elapsed;
+        }
 
-    public void ResetTime()
-    {
-        _countUpTimer.Reset();
-    }
+        public void RestartTime()
+        {
+            _countUpTimer.Restart();
+        }
 
-    public void StartTime()
-    {
-        _countUpTimer.Start();
-    }
+        public void ResetTime()
+        {
+            _countUpTimer.Reset();
+        }
+
+        public void StartTime()
+        {
+            _countUpTimer.Start();
+        }
     
     
-    // Add properties and methods as needed
+        // Add properties and methods as needed
+    }
 }

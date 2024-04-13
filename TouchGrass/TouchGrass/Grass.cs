@@ -1,23 +1,24 @@
 // Grass.cs
 
-using System.Runtime.Versioning;
-using Microsoft.VisualBasic.CompilerServices;
+using System;
 
-namespace TouchGrass;
-public class Grass
+namespace TouchGrass
 {
-    private readonly int _xPosition;
-    private readonly int _yPosition;
+    public class Grass
+    {
+        private readonly int _xPosition;
+        private readonly int _yPosition;
     
-    public Grass(int xSize, int ySize)
-    {
-        var rand = new Random();
+        public Grass(int xSize, int ySize)
+        {
+            var rand = new Random();
         
         
-    }
+        }
 
-    public Grass()
-    {
-        this._xPosition = 
+        public Grass()
+        {
+            
+        }
     }
 }
