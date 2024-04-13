@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TouchGrass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8e7db4666b4f3c76fb1e6b585bd50a8988e431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54afe965762d6eeb8969a95da9cf43ba771df08")]
 [assembly: System.Reflection.AssemblyProductAttribute("TouchGrass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TouchGrass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
