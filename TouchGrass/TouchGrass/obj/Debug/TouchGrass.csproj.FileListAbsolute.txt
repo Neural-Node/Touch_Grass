@@ -3,3 +3,13 @@ C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.For
 C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.Properties.Resources.resources
 C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.GenerateResource.cache
 C:\Users\tgfel\Desktop\New folder\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.CoreCompileInputs.cache
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\bin\Debug\TouchGrass.exe.config
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\bin\Debug\TouchGrass.exe
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\bin\Debug\TouchGrass.pdb
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.AssemblyReference.cache
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.Form1.resources
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.Properties.Resources.resources
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.GenerateResource.cache
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.csproj.CoreCompileInputs.cache
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.exe
+C:\Users\tgfel\Desktop\TouchGrass\Touch_Grass\TouchGrass\TouchGrass\obj\Debug\TouchGrass.pdb
